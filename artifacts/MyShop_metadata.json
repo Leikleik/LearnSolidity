@@ -70,7 +70,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"SmartContracts/Urok1.sol": "MyShop"
+			"SmartContracts/task_1.sol": "MyShop"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -84,12 +84,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"SmartContracts/Urok1.sol": {
-			"keccak256": "0x0771206d24823b34e26892473a8499ecd1c4f7c5498e393c5a51bf143d519af9",
+		"SmartContracts/task_1.sol": {
+			"keccak256": "0x21a95f32c82f5409e8ddf957f3cefcdd6ceced89a216e7e06d3da6d1a4b54906",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a0f7dd98548d92bdff083c621e3f92ebf88951b10e589620690e29fc33074cf5",
-				"dweb:/ipfs/QmR5RV4mo3ZY2AsN1B8zK6RggrZEviqepzj2turWX6HnJD"
+				"bzz-raw://fbcbf51e6569218697ac51c081a26e7c42052f5b504011cc7061758822d98d35",
+				"dweb:/ipfs/QmdGxdeVd4oXscBq5QfkFtgjmmyh3CkCwBnnrH9xpyVj7N"
 			]
 		}
 	},

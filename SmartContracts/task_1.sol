@@ -2,13 +2,12 @@
 
 pragma solidity ^0.8.30;
 
-// Учебный контракт видео-материала: (YouTube: https://www.youtube.com/watch?v=8A8-7Ks26yY)
+// Контракт для задания: "Переписать смарт-контракт из видео, используя pragma solidity ^0.8.30; протестировать функции самостоятельно"
 // Выполнил: Виктор (GitHub: https://github.com/Leikleik/LearnSolidity)
 // Полная разработка всех заданий проекта ведется в ветке develop!
 
 contract MyShop {
     
-    // 0xd9145CCE52D386f254917e481eB44e9943F39138
     address public owner;
     mapping (address => uint) public payments;
 

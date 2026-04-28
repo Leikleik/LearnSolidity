@@ -2,6 +2,10 @@
 
 pragma solidity ^0.8.30;
 
+// Учебный контракт видео-материала: (YouTube: https://www.youtube.com/watch?v=H2_I4TgDbl0)
+// Выполнил: Виктор (GitHub: https://github.com/Leikleik/LearnSolidity)
+// Полная разработка всех заданий проекта ведется в ветке develop!
+
 contract urok2 {
     // public можно вызывать из внеконтракта так и изнутри
     // external можно вызывать только из внешне metamask и пр.
